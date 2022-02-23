@@ -13,4 +13,14 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 #Este proyecto fue creado con React para las clases del curso de la camada 24915 en CoderHouse
 
+##Home
+
+![image](https://user-images.githubusercontent.com/81595307/155430016-db8a2d91-8179-4c4a-b3f8-59ddd5aa541b.png)
+
+##Shop
+
+![image](https://user-images.githubusercontent.com/81595307/155430052-9083a863-af31-4530-95e2-f417b7497b18.png)
+
+
+
 
