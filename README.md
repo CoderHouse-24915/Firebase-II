@@ -7,7 +7,9 @@
 Las dependencias utilizadas para este proyecto fueron: 
 
 https://v5.reactrouter.com/web/guides/quick-start
+
 https://mui.com/
+
 https://firebase.google.com/
 
 Se utilizó MUI para enfocar el desarrollo de esta aplicación en relación a la funcionalidad, y no tanto en la parte de estilos. 
