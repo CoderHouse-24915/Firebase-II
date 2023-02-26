@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 
-import CardComponent from "../CardComponent/CardComponent";
+import CardAlbumComponent from "../CardAlbumComponent/CardAlbumComponent";
 import { Link } from "react-router-dom";
 
 import "./CardList.css";
@@ -48,7 +48,7 @@ const CardList = () => {
                 style={{ textDecoration: "none" }}
                 key={data.id}
               >
-                <CardComponent albumsData={data} />
+                <CardAlbumComponent albumsData={data} />
               </Link>
             );
           })}
