@@ -12,9 +12,10 @@ import { db } from "../../firebase/firebaseConfig";
 
 const CardList = () => {
   const [albumsData, setAlbumsData] = useState([]);
-  const [isLoading, setIsLoading] = useState(true);
+  const [isLoading, setIsLoading] = useState(false);
 
   useEffect(() => {
+    setIsLoading(true);
     const getAlbums = async () => {
       const q = query(collection(db, "music"));
       const docs = [];
