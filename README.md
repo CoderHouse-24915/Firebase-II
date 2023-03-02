@@ -5,6 +5,14 @@
 
 **This is bold text**
 
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+
 # Markdown sintax
 
 Enlace a la documentación:  [Link](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github)
