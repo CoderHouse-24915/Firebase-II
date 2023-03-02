@@ -1,4 +1,8 @@
 
+# The largest heading
+## The second largest heading
+###### The smallest heading
+
 # Markdown sintax
 
 Enlace a la documentación:  [Link](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github)
