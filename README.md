@@ -1,3 +1,8 @@
+
+# Markdown sintax
+
+Enlace a la documentación:  [Link](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github)
+
 # Proyecto E-Commerce: CoderHouse
 
 ### Alumno: Pepito Gonzales
