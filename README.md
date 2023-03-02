@@ -24,3 +24,6 @@ Las dependencias que se utilizaron para este proyecto son:
 
 ![172273839-638b3ea2-95c3-4079-8ce0-8010f58fcc8b](https://user-images.githubusercontent.com/81595307/178622492-b920d59b-44bd-4a54-aa0b-24fd0e2ac4c1.png)
 
+![image](https://user-images.githubusercontent.com/81595307/222588661-72154cab-ea80-4bd8-aad5-d64dc188db25.png)
+
+
